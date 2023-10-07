@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "question": "¿Cual es tu nombre?",
+        "fields": ["Nombre", "Segundo Nombre", "Apellido Paterno", "Apellido Materno"]
+    },
+    {
+        "id": "2",
+        "question": "¿Cual es tu fecha de nacimiento?",
+        "fields": ["Dia", "Mes", "Año"]
+    },
+    {
+        "id": "3",
+        "question": "Datos de contacto",
+        "fields": ["Telefono", "Correo Electronico"]
+    }
+]
