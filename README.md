@@ -5,6 +5,7 @@ Libraries used in the project:
 1. [ReactJS](https://react.dev/)
 2. [ViteJS](https://vitejs.dev/)
 3. [Style-Components](https://styled-components.com/)
+4. [Zustand](https://zustand-demo.pmnd.rs/)
 
 Steps to run locally this project:
 
